@@ -1,0 +1,3 @@
+- Implement insolation calculations for tilt angles at a given latitude, given input tilt angles.
+- Implement real time optimal angle tracking option.
+- Implement open file format to describe a location's lighting and shadows that better allows for optimal insolation calculations.

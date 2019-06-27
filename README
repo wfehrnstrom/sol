@@ -1,0 +1,9 @@
+sol
+-----
+
+FAQ
+-----
+1. What does this code do?
+
+This is intended as a tool for people hoping to use solar panels on their property, but unsure of what orientation and angle to place those solar panels at. Also, in the future it will also implement a real time solar tracking system, which will be interfaceable with existing motors that position panels at optimal angles for insolation.
+
